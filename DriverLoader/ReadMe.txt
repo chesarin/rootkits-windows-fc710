@@ -31,3 +31,5 @@ AppWizard uses "TODO:" comments to indicate parts of the source code you
 should add to or customize.
 
 /////////////////////////////////////////////////////////////////////////////
+This code was provided in class in order to create the DriverLoader executable
+that will load the code for our custom driver.
